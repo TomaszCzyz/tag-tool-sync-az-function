@@ -1,4 +1,4 @@
-namespace TagTool.SyncAzFunction;
+namespace TagTool.SyncAzFunction.Endpoints;
 
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;

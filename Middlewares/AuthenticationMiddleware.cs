@@ -1,4 +1,4 @@
-namespace TagTool.SyncAzFunction;
+namespace TagTool.SyncAzFunction.Middlewares;
 
 using Microsoft.Azure.Functions.Worker;
 using Microsoft.Azure.Functions.Worker.Middleware;
