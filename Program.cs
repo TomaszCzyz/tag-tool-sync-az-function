@@ -3,8 +3,7 @@ using Microsoft.Azure.Functions.Worker.Builder;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
-using TagTool.SyncAzFunction;
-using TagTool.SyncAzFunction.Middlewares;
+using TagTool.SyncAzFunctions.Middlewares;
 
 var builder = FunctionsApplication.CreateBuilder(args)
     .ConfigureFunctionsWebApplication();
