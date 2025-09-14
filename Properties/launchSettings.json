@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "TagTool.SyncAzFunction": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7220",
+      "launchBrowser": false
+    }
+  }
+}

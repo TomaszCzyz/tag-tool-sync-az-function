@@ -1,0 +1,3 @@
+###
+GET http://localhost:7220/api/HttpExample
+Authorization: Bearer {{accessToken}}
